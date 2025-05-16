@@ -142,7 +142,6 @@ async function updateState() {
           <br>
         <input disabled type="number" v-model="rpiData['humidity']">
         </div>
-{{rpiData['idx']}}
         <div>
         <label for="test-mode">temperature</label>
           <br>
